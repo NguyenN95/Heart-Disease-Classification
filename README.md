@@ -85,7 +85,7 @@ Download [Anaconda](https://www.anaconda.com/products/distribution) or [Minicond
 3. Create virtual environment and install tools
    1. From scratch
       ```sh
-      conda create --prefix ./venv pandas numpy matplotlib scikit-learn
+      conda create --prefix ./venv pandas numpy matplotlib seaborn scikit-learn 
       ```
    2. From `environment.yml`
       ```sh
