@@ -114,7 +114,7 @@ Download [Anaconda](https://www.anaconda.com/products/distribution) or [Minicond
 
 - For Visual Studio Code user:
    ```powershell
-   code 'Detect-Heart-Disease'
+   code 'Heart-Disease-Project'
    ```
 - For jupyter notebook user (conda prompt):
    ```sh
