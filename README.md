@@ -12,7 +12,7 @@
 <h3 align="center">Heart Disease Classification</h3>
 
   <p align="center">
-    Detect 
+    Detect someone with given information has heart disease or not
     <br />
     <a href="https://github.com/BabyfaceDeveloper/Detect-Heart-Disease"><strong>Explore the docs »</strong></a>
     <br />
