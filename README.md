@@ -50,7 +50,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot][product-screenshot]
+![Heart Disease Classification][product-screenshot]
 
 Given information about the person. Program detect if that person has a heart disease or not.
 
