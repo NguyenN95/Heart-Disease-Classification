@@ -14,7 +14,7 @@
   <p align="center">
     Detect someone with given information has heart disease or not
     <br />
-    <a href="https://github.com/BabyfaceDeveloper/Detect-Heart-Disease"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/BabyfaceDeveloper/Heart-Disease-Classification/blob/main/solution.ipynb"><strong>Explore the notebook »</strong></a>
     <br />
   </p>
 </div>
@@ -49,6 +49,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+![Product Name Screen Shot][product-screenshot]
 
 Given information about the person. Program detect if that person has a heart disease or not.
 
